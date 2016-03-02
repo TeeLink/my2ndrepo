@@ -10,7 +10,7 @@ namespace my2ndrepo
     {
         static void Main(string[] args)
         {
-
+            DateTime today = DateTime.Now;
         }
     }
 }
